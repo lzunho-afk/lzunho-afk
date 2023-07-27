@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://www.marxists.org/portugues/"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=24&pause=1000&color=FF2828&width=200&lines=N%C3%A3o+pense+na+Matrix...;Pense+na+revolus%C3%A3o+%E2%98%AD" alt="Typing SVG" /></a>
+</div>
+
+<div align="center">
+    <a href="https://www.instagram.com/nicolegoncalves123/"><b>@nicsmore&#9829;&#9829;</b></a>
+</div>
 
 <!--
 **lzunho-afk/lzunho-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
