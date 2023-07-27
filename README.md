@@ -1,22 +1,28 @@
 <div align="center">
-  <a href="https://www.marxists.org/portugues/"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=24&pause=1000&color=FF2828&width=200&lines=N%C3%A3o+pense+na+Matrix...;Pense+na+revolus%C3%A3o+%E2%98%AD" alt="Typing SVG" /></a>
+    <a href="https://www.marxists.org/portugues/"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=26&pause=1000&color=F70000&width=190&lines=N%C3%A3o+pense+na+Matrix...;Pense+na+Revolus%C3%A3o+%5E%5E" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
+    <a href="https://www.instagram.com/lucaszunho/"><b>@lucaszunho</b></a>
     <a href="https://www.instagram.com/nicolegoncalves123/"><b>@nicsmore&#9829;&#9829;</b></a>
 </div>
 
-<!--
-**lzunho-afk/lzunho-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
 
-Here are some ideas to get you started:
+### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. [Github Pages](https://lzunho-afk.github.io)
+   
+```text
+  ,-.       _,---._ __  / \
+ /  )    .-'       `./ /   \
+(  (   ,'            `/    /|
+ \  `-"             \'\   / |
+  `.              ,  \ \ /  |
+   /`.          ,'-`----Y   |
+  (            ;        |   '
+  |  ,-.    ,-'         |  /
+  |  | (   |        hjw | /
+  )  |  \  `.___________|/
+  `--'   `--'
+```
