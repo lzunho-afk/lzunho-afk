@@ -12,7 +12,7 @@
 ### Links
 
 1. [Github Pages](https://lzunho-afk.github.io)
-2. [Doações Liberapay](https://liberapay.com/lzunho-afk/)
+2. [Linkedin](https://br.linkedin.com/in/lucas-zunho-ab0b65250)
 
 ```text
   ,-.       _,---._ __  / \
